@@ -1,5 +1,5 @@
 # IoT-Botnet-Detection-System
-This project is a real-time IoT botnet detection system 
+This project is an IoT botnet detection system 
 designed for smart city networks. It uses machine learning 
 models to analyze network traffic, identify malicious botnet 
 activity, and help detecting DDoS attacks. The system includes 
